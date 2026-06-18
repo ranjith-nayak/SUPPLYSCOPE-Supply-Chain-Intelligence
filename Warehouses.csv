@@ -1,6 +1,0 @@
-﻿Warehouse_ID,Warehourse_Name,Region,Capacity,Utilization,Warehouse_Type
-W001,North Hub,North,50000,72,Regional
-W002,South Hub,South,45000,68,Regional
-W003,East Hub,East,40000,70,Regional
-W004,West Hub,West,42000,75,Regional
-W005,Central hub,Central,60000,92,National
