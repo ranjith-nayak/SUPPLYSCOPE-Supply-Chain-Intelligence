@@ -1,0 +1,26 @@
+﻿Product_ID,Product_Name,Category,Unit_Cost,Unit_Price,Demand_Type
+P001,Laptop Pro X,Electronics,550,889,High
+P002,SmartPhone Elite,Electronics,400,699,Very High
+P003,Tab Ultra,Electronics,300,549,Medium
+P004,SmartWatch Active,Electronics,120,249,Medium
+P005,Vision Monitor,Electronics,180,329,High
+P006,CoolMax Refrigerator,Home Appliance,700,1199,Medium
+P007,HeatWave Microwave,Home Appliance,90,179,High
+P008,PureAir Purifier,Home Appliance,130,249,Medium
+P009,WashPro Machine,Home Appliance,450,799,Medium
+P010,CkeanSweep Vacuum,Home Appliance,110,229,Low
+P011,Ergo Office Chair,Furniture,85,169,Medium
+P012,Study Desk Plus,Furniture,120,249,Medium
+P013,Oak Bookshelf,Furniture,70,139,Medium
+P014,File Cabinet Pro,Furniture,95,189,Low
+P015,Fkex Standing Desk,Furniture,180,349,Medium
+P016,Laser Printer X,Office Supplies,150,299,Medium
+P017,Mechanical Keyboard,Office Supplies,40,89,High
+P018,Precision Mouse,Office Supplies,15,39,Very High
+P019,HD Webcam,Office Supplies,35,79,Medium
+P020,Wireless Headset,Office Supplies,79,119,High
+P021,GroomPro,Personal Care,25,59,High
+P022,Airstyle Dryser,Personal Care,35,79,Medium
+P023,Smartbrush,Personal Care,20,49,High
+P024,Relax Massager,Personal Care,45,99,Low
+P025,Care Grooming Kit,Personal Care,18,39,Medium
