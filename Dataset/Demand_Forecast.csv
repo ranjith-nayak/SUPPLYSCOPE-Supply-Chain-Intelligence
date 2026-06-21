@@ -1,0 +1,301 @@
+﻿Forecast_Month,Product_ID,Product_Name,Category,Actual_Demand,Forecast_Demand,Deamand_Priorty,Forecast_Accuracy,Safety_Stock,Stock_Gap
+Jan-25,P001,Laptop Pro X,Electronics,550,550,Very High,100.00%,110,0
+Jan-25,P002,SmartPhone Elite,Electronics,400,432,High,92.00%,86,32
+Jan-25,P003,Tab Ultra,Electronics,300,300,High,100.00%,60,0
+Jan-25,P004,SmartWatch Active,Electronics,120,119,Low,99.00%,24,-1
+Jan-25,P005,Vision Monitor,Electronics,180,198,Medium,90.00%,40,18
+Jan-25,P006,CoolMax Refrigerator,Home Appliance,700,658,Very High,94.00%,132,-42
+Jan-25,P007,HeatWave Microwave,Home Appliance,90,84,Low,93.00%,17,-6
+Jan-25,P008,PureAir Purifier,Home Appliance,130,120,Low,92.00%,24,-10
+Jan-25,P009,WashPro Machine,Home Appliance,450,441,Very High,98.00%,88,-9
+Jan-25,P010,CkeanSweep Vacuum,Home Appliance,110,114,Low,96.00%,23,4
+Jan-25,P011,Ergo Office Chair,Furniture,85,87,Low,98.00%,17,2
+Jan-25,P012,Study Desk Plus,Furniture,120,125,Low,96.00%,25,5
+Jan-25,P013,Oak Bookshelf,Furniture,70,67,Low,96.00%,13,-3
+Jan-25,P014,File Cabinet Pro,Furniture,95,101,Low,94.00%,20,6
+Jan-25,P015,Fkex Standing Desk,Furniture,180,164,Medium,91.00%,33,-16
+Jan-25,P016,Laser Printer X,Office Supplies,150,158,Medium,95.00%,32,8
+Jan-25,P017,Mechanical Keyboard,Office Supplies,40,38,Low,95.00%,8,-2
+Jan-25,P018,Precision Mouse,Office Supplies,15,14,Low,93.00%,3,-1
+Jan-25,P019,HD Webcam,Office Supplies,35,38,Low,91.00%,8,3
+Jan-25,P020,Wireless Headset,Office Supplies,79,80,Low,99.00%,16,1
+Jan-25,P021,GroomPro,Personal Care,25,23,Low,92.00%,5,-2
+Jan-25,P022,Airstyle Dryser,Personal Care,35,35,Low,100.00%,7,0
+Jan-25,P023,Smartbrush,Personal Care,20,19,Low,95.00%,4,-1
+Jan-25,P024,Relax Massager,Personal Care,45,43,Low,96.00%,9,-2
+Jan-25,P025,Care Grooming Kit,Personal Care,18,17,Low,94.00%,3,-1
+Feb-25,P001,Laptop Pro X,Electronics,550,572,Very High,96.00%,114,22
+Feb-25,P002,SmartPhone Elite,Electronics,400,372,High,93.00%,74,-28
+Feb-25,P003,Tab Ultra,Electronics,300,312,High,96.00%,62,12
+Feb-25,P004,SmartWatch Active,Electronics,120,132,Low,90.00%,26,12
+Feb-25,P005,Vision Monitor,Electronics,180,189,Medium,95.00%,38,9
+Feb-25,P006,CoolMax Refrigerator,Home Appliance,700,735,Very High,95.00%,147,35
+Feb-25,P007,HeatWave Microwave,Home Appliance,90,99,Low,90.00%,20,9
+Feb-25,P008,PureAir Purifier,Home Appliance,130,137,Low,95.00%,27,7
+Feb-25,P009,WashPro Machine,Home Appliance,450,428,Very High,95.00%,86,-22
+Feb-25,P010,CkeanSweep Vacuum,Home Appliance,110,117,Low,94.00%,23,7
+Feb-25,P011,Ergo Office Chair,Furniture,85,77,Low,91.00%,15,-8
+Feb-25,P012,Study Desk Plus,Furniture,120,124,Low,97.00%,25,4
+Feb-25,P013,Oak Bookshelf,Furniture,70,76,Low,91.00%,15,6
+Feb-25,P014,File Cabinet Pro,Furniture,95,93,Low,98.00%,19,-2
+Feb-25,P015,Fkex Standing Desk,Furniture,180,187,Medium,96.00%,37,7
+Feb-25,P016,Laser Printer X,Office Supplies,150,150,Medium,100.00%,30,0
+Feb-25,P017,Mechanical Keyboard,Office Supplies,40,39,Low,98.00%,8,-1
+Feb-25,P018,Precision Mouse,Office Supplies,15,16,Low,93.00%,3,1
+Feb-25,P019,HD Webcam,Office Supplies,35,37,Low,94.00%,7,2
+Feb-25,P020,Wireless Headset,Office Supplies,79,71,Low,90.00%,14,-8
+Feb-25,P021,GroomPro,Personal Care,25,23,Low,92.00%,5,-2
+Feb-25,P022,Airstyle Dryser,Personal Care,35,33,Low,94.00%,7,-2
+Feb-25,P023,Smartbrush,Personal Care,20,18,Low,90.00%,4,-2
+Feb-25,P024,Relax Massager,Personal Care,45,49,Low,91.00%,10,4
+Feb-25,P025,Care Grooming Kit,Personal Care,18,17,Low,94.00%,3,-1
+Mar-25,P001,Laptop Pro X,Electronics,550,572,Very High,96.00%,114,22
+Mar-25,P002,SmartPhone Elite,Electronics,400,424,High,94.00%,85,24
+Mar-25,P003,Tab Ultra,Electronics,300,273,High,91.00%,55,-27
+Mar-25,P004,SmartWatch Active,Electronics,120,130,Low,92.00%,26,10
+Mar-25,P005,Vision Monitor,Electronics,180,193,Medium,93.00%,39,13
+Mar-25,P006,CoolMax Refrigerator,Home Appliance,700,742,Very High,94.00%,148,42
+Mar-25,P007,HeatWave Microwave,Home Appliance,90,97,Low,92.00%,19,7
+Mar-25,P008,PureAir Purifier,Home Appliance,130,125,Low,96.00%,25,-5
+Mar-25,P009,WashPro Machine,Home Appliance,450,441,Very High,98.00%,88,-9
+Mar-25,P010,CkeanSweep Vacuum,Home Appliance,110,106,Low,96.00%,21,-4
+Mar-25,P011,Ergo Office Chair,Furniture,85,90,Low,94.00%,18,5
+Mar-25,P012,Study Desk Plus,Furniture,120,108,Low,90.00%,22,-12
+Mar-25,P013,Oak Bookshelf,Furniture,70,69,Low,99.00%,14,-1
+Mar-25,P014,File Cabinet Pro,Furniture,95,88,Low,93.00%,18,-7
+Mar-25,P015,Fkex Standing Desk,Furniture,180,191,Medium,94.00%,38,11
+Mar-25,P016,Laser Printer X,Office Supplies,150,140,Medium,93.00%,28,-10
+Mar-25,P017,Mechanical Keyboard,Office Supplies,40,43,Low,93.00%,9,3
+Mar-25,P018,Precision Mouse,Office Supplies,15,14,Low,93.00%,3,-1
+Mar-25,P019,HD Webcam,Office Supplies,35,36,Low,97.00%,7,1
+Mar-25,P020,Wireless Headset,Office Supplies,79,81,Low,97.00%,16,2
+Mar-25,P021,GroomPro,Personal Care,25,25,Low,100.00%,5,0
+Mar-25,P022,Airstyle Dryser,Personal Care,35,38,Low,91.00%,8,3
+Mar-25,P023,Smartbrush,Personal Care,20,20,Low,100.00%,4,0
+Mar-25,P024,Relax Massager,Personal Care,45,45,Low,100.00%,9,0
+Mar-25,P025,Care Grooming Kit,Personal Care,18,19,Low,94.00%,4,1
+Apr-25,P001,Laptop Pro X,Electronics,550,550,Very High,100.00%,110,0
+Apr-25,P002,SmartPhone Elite,Electronics,400,360,High,90.00%,72,-40
+Apr-25,P003,Tab Ultra,Electronics,300,282,High,94.00%,56,-18
+Apr-25,P004,SmartWatch Active,Electronics,120,126,Low,95.00%,25,6
+Apr-25,P005,Vision Monitor,Electronics,180,162,Medium,90.00%,32,-18
+Apr-25,P006,CoolMax Refrigerator,Home Appliance,700,700,Very High,100.00%,140,0
+Apr-25,P007,HeatWave Microwave,Home Appliance,90,88,Low,98.00%,18,-2
+Apr-25,P008,PureAir Purifier,Home Appliance,130,142,Low,91.00%,28,12
+Apr-25,P009,WashPro Machine,Home Appliance,450,428,Very High,95.00%,86,-22
+Apr-25,P010,CkeanSweep Vacuum,Home Appliance,110,101,Low,92.00%,20,-9
+Apr-25,P011,Ergo Office Chair,Furniture,85,77,Low,91.00%,15,-8
+Apr-25,P012,Study Desk Plus,Furniture,120,131,Low,91.00%,26,11
+Apr-25,P013,Oak Bookshelf,Furniture,70,64,Low,91.00%,13,-6
+Apr-25,P014,File Cabinet Pro,Furniture,95,98,Low,97.00%,20,3
+Apr-25,P015,Fkex Standing Desk,Furniture,180,180,Medium,100.00%,36,0
+Apr-25,P016,Laser Printer X,Office Supplies,150,137,Medium,91.00%,27,-13
+Apr-25,P017,Mechanical Keyboard,Office Supplies,40,36,Low,90.00%,7,-4
+Apr-25,P018,Precision Mouse,Office Supplies,15,16,Low,93.00%,3,1
+Apr-25,P019,HD Webcam,Office Supplies,35,37,Low,94.00%,7,2
+Apr-25,P020,Wireless Headset,Office Supplies,79,82,Low,96.00%,16,3
+Apr-25,P021,GroomPro,Personal Care,25,25,Low,100.00%,5,0
+Apr-25,P022,Airstyle Dryser,Personal Care,35,39,Low,89.00%,8,4
+Apr-25,P023,Smartbrush,Personal Care,20,22,Low,90.00%,4,2
+Apr-25,P024,Relax Massager,Personal Care,45,41,Low,91.00%,8,-4
+Apr-25,P025,Care Grooming Kit,Personal Care,18,17,Low,94.00%,3,-1
+May-25,P001,Laptop Pro X,Electronics,550,501,Very High,91.00%,100,-49
+May-25,P002,SmartPhone Elite,Electronics,400,440,High,90.00%,88,40
+May-25,P003,Tab Ultra,Electronics,300,321,High,93.00%,64,21
+May-25,P004,SmartWatch Active,Electronics,120,132,Low,90.00%,26,12
+May-25,P005,Vision Monitor,Electronics,180,182,Medium,99.00%,36,2
+May-25,P006,CoolMax Refrigerator,Home Appliance,700,665,Very High,95.00%,133,-35
+May-25,P007,HeatWave Microwave,Home Appliance,90,88,Low,98.00%,18,-2
+May-25,P008,PureAir Purifier,Home Appliance,130,118,Low,91.00%,24,-12
+May-25,P009,WashPro Machine,Home Appliance,450,477,Very High,94.00%,95,27
+May-25,P010,CkeanSweep Vacuum,Home Appliance,110,120,Low,91.00%,24,10
+May-25,P011,Ergo Office Chair,Furniture,85,88,Low,96.00%,18,3
+May-25,P012,Study Desk Plus,Furniture,120,115,Low,96.00%,23,-5
+May-25,P013,Oak Bookshelf,Furniture,70,76,Low,91.00%,15,6
+May-25,P014,File Cabinet Pro,Furniture,95,86,Low,91.00%,17,-9
+May-25,P015,Fkex Standing Desk,Furniture,180,162,Medium,90.00%,32,-18
+May-25,P016,Laser Printer X,Office Supplies,150,147,Medium,98.00%,29,-3
+May-25,P017,Mechanical Keyboard,Office Supplies,40,42,Low,95.00%,8,2
+May-25,P018,Precision Mouse,Office Supplies,15,15,Low,100.00%,3,0
+May-25,P019,HD Webcam,Office Supplies,35,35,Low,100.00%,7,0
+May-25,P020,Wireless Headset,Office Supplies,79,85,Low,92.00%,17,6
+May-25,P021,GroomPro,Personal Care,25,25,Low,100.00%,5,0
+May-25,P022,Airstyle Dryser,Personal Care,35,32,Low,91.00%,6,-3
+May-25,P023,Smartbrush,Personal Care,20,21,Low,95.00%,4,1
+May-25,P024,Relax Massager,Personal Care,45,46,Low,98.00%,9,1
+May-25,P025,Care Grooming Kit,Personal Care,18,19,Low,94.00%,4,1
+Jun-25,P001,Laptop Pro X,Electronics,550,528,Very High,96.00%,106,-22
+Jun-25,P002,SmartPhone Elite,Electronics,400,388,High,97.00%,78,-12
+Jun-25,P003,Tab Ultra,Electronics,300,312,High,96.00%,62,12
+Jun-25,P004,SmartWatch Active,Electronics,120,121,Low,99.00%,24,1
+Jun-25,P005,Vision Monitor,Electronics,180,185,Medium,97.00%,37,5
+Jun-25,P006,CoolMax Refrigerator,Home Appliance,700,651,Very High,93.00%,130,-49
+Jun-25,P007,HeatWave Microwave,Home Appliance,90,87,Low,97.00%,17,-3
+Jun-25,P008,PureAir Purifier,Home Appliance,130,121,Low,93.00%,24,-9
+Jun-25,P009,WashPro Machine,Home Appliance,450,423,Very High,94.00%,85,-27
+Jun-25,P010,CkeanSweep Vacuum,Home Appliance,110,105,Low,95.00%,21,-5
+Jun-25,P011,Ergo Office Chair,Furniture,85,80,Low,94.00%,16,-5
+Jun-25,P012,Study Desk Plus,Furniture,120,131,Low,91.00%,26,11
+Jun-25,P013,Oak Bookshelf,Furniture,70,65,Low,93.00%,13,-5
+Jun-25,P014,File Cabinet Pro,Furniture,95,86,Low,91.00%,17,-9
+Jun-25,P015,Fkex Standing Desk,Furniture,180,196,Medium,91.00%,39,16
+Jun-25,P016,Laser Printer X,Office Supplies,150,147,Medium,98.00%,29,-3
+Jun-25,P017,Mechanical Keyboard,Office Supplies,40,39,Low,98.00%,8,-1
+Jun-25,P018,Precision Mouse,Office Supplies,15,15,Low,100.00%,3,0
+Jun-25,P019,HD Webcam,Office Supplies,35,33,Low,94.00%,7,-2
+Jun-25,P020,Wireless Headset,Office Supplies,79,77,Low,97.00%,15,-2
+Jun-25,P021,GroomPro,Personal Care,25,24,Low,96.00%,5,-1
+Jun-25,P022,Airstyle Dryser,Personal Care,35,37,Low,94.00%,7,2
+Jun-25,P023,Smartbrush,Personal Care,20,21,Low,95.00%,4,1
+Jun-25,P024,Relax Massager,Personal Care,45,43,Low,96.00%,9,-2
+Jun-25,P025,Care Grooming Kit,Personal Care,18,17,Low,94.00%,3,-1
+Jul-25,P001,Laptop Pro X,Electronics,550,506,Very High,92.00%,101,-44
+Jul-25,P002,SmartPhone Elite,Electronics,400,388,High,97.00%,78,-12
+Jul-25,P003,Tab Ultra,Electronics,300,270,High,90.00%,54,-30
+Jul-25,P004,SmartWatch Active,Electronics,120,128,Low,93.00%,26,8
+Jul-25,P005,Vision Monitor,Electronics,180,191,Medium,94.00%,38,11
+Jul-25,P006,CoolMax Refrigerator,Home Appliance,700,763,Very High,91.00%,153,63
+Jul-25,P007,HeatWave Microwave,Home Appliance,90,81,Low,90.00%,16,-9
+Jul-25,P008,PureAir Purifier,Home Appliance,130,140,Low,92.00%,28,10
+Jul-25,P009,WashPro Machine,Home Appliance,450,464,Very High,97.00%,93,14
+Jul-25,P010,CkeanSweep Vacuum,Home Appliance,110,99,Low,90.00%,20,-11
+Jul-25,P011,Ergo Office Chair,Furniture,85,88,Low,96.00%,18,3
+Jul-25,P012,Study Desk Plus,Furniture,120,113,Low,94.00%,23,-7
+Jul-25,P013,Oak Bookshelf,Furniture,70,68,Low,97.00%,14,-2
+Jul-25,P014,File Cabinet Pro,Furniture,95,86,Low,91.00%,17,-9
+Jul-25,P015,Fkex Standing Desk,Furniture,180,189,Medium,95.00%,38,9
+Jul-25,P016,Laser Printer X,Office Supplies,150,153,Medium,98.00%,31,3
+Jul-25,P017,Mechanical Keyboard,Office Supplies,40,43,Low,93.00%,9,3
+Jul-25,P018,Precision Mouse,Office Supplies,15,16,Low,93.00%,3,1
+Jul-25,P019,HD Webcam,Office Supplies,35,36,Low,97.00%,7,1
+Jul-25,P020,Wireless Headset,Office Supplies,79,73,Low,92.00%,15,-6
+Jul-25,P021,GroomPro,Personal Care,25,27,Low,92.00%,5,2
+Jul-25,P022,Airstyle Dryser,Personal Care,35,36,Low,97.00%,7,1
+Jul-25,P023,Smartbrush,Personal Care,20,18,Low,90.00%,4,-2
+Jul-25,P024,Relax Massager,Personal Care,45,43,Low,96.00%,9,-2
+Jul-25,P025,Care Grooming Kit,Personal Care,18,17,Low,94.00%,3,-1
+Aug-25,P001,Laptop Pro X,Electronics,550,605,Very High,90.00%,121,55
+Aug-25,P002,SmartPhone Elite,Electronics,400,408,High,98.00%,82,8
+Aug-25,P003,Tab Ultra,Electronics,300,288,High,96.00%,58,-12
+Aug-25,P004,SmartWatch Active,Electronics,120,126,Low,95.00%,25,6
+Aug-25,P005,Vision Monitor,Electronics,180,187,Medium,96.00%,37,7
+Aug-25,P006,CoolMax Refrigerator,Home Appliance,700,644,Very High,92.00%,129,-56
+Aug-25,P007,HeatWave Microwave,Home Appliance,90,98,Low,91.00%,20,8
+Aug-25,P008,PureAir Purifier,Home Appliance,130,140,Low,92.00%,28,10
+Aug-25,P009,WashPro Machine,Home Appliance,450,428,Very High,95.00%,86,-22
+Aug-25,P010,CkeanSweep Vacuum,Home Appliance,110,116,Low,95.00%,23,6
+Aug-25,P011,Ergo Office Chair,Furniture,85,80,Low,94.00%,16,-5
+Aug-25,P012,Study Desk Plus,Furniture,120,130,Low,92.00%,26,10
+Aug-25,P013,Oak Bookshelf,Furniture,70,77,Low,90.00%,15,7
+Aug-25,P014,File Cabinet Pro,Furniture,95,102,Low,93.00%,20,7
+Aug-25,P015,Fkex Standing Desk,Furniture,180,178,Medium,99.00%,36,-2
+Aug-25,P016,Laser Printer X,Office Supplies,150,159,Medium,94.00%,32,9
+Aug-25,P017,Mechanical Keyboard,Office Supplies,40,39,Low,98.00%,8,-1
+Aug-25,P018,Precision Mouse,Office Supplies,15,16,Low,93.00%,3,1
+Aug-25,P019,HD Webcam,Office Supplies,35,36,Low,97.00%,7,1
+Aug-25,P020,Wireless Headset,Office Supplies,79,75,Low,95.00%,15,-4
+Aug-25,P021,GroomPro,Personal Care,25,24,Low,96.00%,5,-1
+Aug-25,P022,Airstyle Dryser,Personal Care,35,35,Low,100.00%,7,0
+Aug-25,P023,Smartbrush,Personal Care,20,19,Low,95.00%,4,-1
+Aug-25,P024,Relax Massager,Personal Care,45,45,Low,100.00%,9,0
+Aug-25,P025,Care Grooming Kit,Personal Care,18,18,Low,100.00%,4,0
+Sep-25,P001,Laptop Pro X,Electronics,550,561,Very High,98.00%,112,11
+Sep-25,P002,SmartPhone Elite,Electronics,400,380,High,95.00%,76,-20
+Sep-25,P003,Tab Ultra,Electronics,300,327,High,91.00%,65,27
+Sep-25,P004,SmartWatch Active,Electronics,120,114,Low,95.00%,23,-6
+Sep-25,P005,Vision Monitor,Electronics,180,180,Medium,100.00%,36,0
+Sep-25,P006,CoolMax Refrigerator,Home Appliance,700,679,Very High,97.00%,136,-21
+Sep-25,P007,HeatWave Microwave,Home Appliance,90,81,Low,90.00%,16,-9
+Sep-25,P008,PureAir Purifier,Home Appliance,130,121,Low,93.00%,24,-9
+Sep-25,P009,WashPro Machine,Home Appliance,450,468,Very High,96.00%,94,18
+Sep-25,P010,CkeanSweep Vacuum,Home Appliance,110,114,Low,96.00%,23,4
+Sep-25,P011,Ergo Office Chair,Furniture,85,90,Low,94.00%,18,5
+Sep-25,P012,Study Desk Plus,Furniture,120,119,Low,99.00%,24,-1
+Sep-25,P013,Oak Bookshelf,Furniture,70,74,Low,94.00%,15,4
+Sep-25,P014,File Cabinet Pro,Furniture,95,97,Low,98.00%,19,2
+Sep-25,P015,Fkex Standing Desk,Furniture,180,169,Medium,94.00%,34,-11
+Sep-25,P016,Laser Printer X,Office Supplies,150,143,Medium,95.00%,29,-7
+Sep-25,P017,Mechanical Keyboard,Office Supplies,40,44,Low,90.00%,9,4
+Sep-25,P018,Precision Mouse,Office Supplies,15,14,Low,93.00%,3,-1
+Sep-25,P019,HD Webcam,Office Supplies,35,37,Low,94.00%,7,2
+Sep-25,P020,Wireless Headset,Office Supplies,79,74,Low,94.00%,15,-5
+Sep-25,P021,GroomPro,Personal Care,25,27,Low,92.00%,5,2
+Sep-25,P022,Airstyle Dryser,Personal Care,35,35,Low,100.00%,7,0
+Sep-25,P023,Smartbrush,Personal Care,20,20,Low,100.00%,4,0
+Sep-25,P024,Relax Massager,Personal Care,45,41,Low,91.00%,8,-4
+Sep-25,P025,Care Grooming Kit,Personal Care,18,19,Low,94.00%,4,1
+Oct-25,P001,Laptop Pro X,Electronics,550,572,Very High,96.00%,114,22
+Oct-25,P002,SmartPhone Elite,Electronics,400,408,High,98.00%,82,8
+Oct-25,P003,Tab Ultra,Electronics,300,315,High,95.00%,63,15
+Oct-25,P004,SmartWatch Active,Electronics,120,130,Low,92.00%,26,10
+Oct-25,P005,Vision Monitor,Electronics,180,196,Medium,91.00%,39,16
+Oct-25,P006,CoolMax Refrigerator,Home Appliance,700,763,Very High,91.00%,153,63
+Oct-25,P007,HeatWave Microwave,Home Appliance,90,82,Low,91.00%,16,-8
+Oct-25,P008,PureAir Purifier,Home Appliance,130,139,Low,93.00%,28,9
+Oct-25,P009,WashPro Machine,Home Appliance,450,473,Very High,95.00%,95,23
+Oct-25,P010,CkeanSweep Vacuum,Home Appliance,110,109,Low,99.00%,22,-1
+Oct-25,P011,Ergo Office Chair,Furniture,85,82,Low,96.00%,16,-3
+Oct-25,P012,Study Desk Plus,Furniture,120,110,Low,92.00%,22,-10
+Oct-25,P013,Oak Bookshelf,Furniture,70,66,Low,94.00%,13,-4
+Oct-25,P014,File Cabinet Pro,Furniture,95,94,Low,99.00%,19,-1
+Oct-25,P015,Fkex Standing Desk,Furniture,180,164,Medium,91.00%,33,-16
+Oct-25,P016,Laser Printer X,Office Supplies,150,164,Medium,91.00%,33,14
+Oct-25,P017,Mechanical Keyboard,Office Supplies,40,44,Low,90.00%,9,4
+Oct-25,P018,Precision Mouse,Office Supplies,15,15,Low,100.00%,3,0
+Oct-25,P019,HD Webcam,Office Supplies,35,35,Low,100.00%,7,0
+Oct-25,P020,Wireless Headset,Office Supplies,79,77,Low,97.00%,15,-2
+Oct-25,P021,GroomPro,Personal Care,25,26,Low,96.00%,5,1
+Oct-25,P022,Airstyle Dryser,Personal Care,35,37,Low,94.00%,7,2
+Oct-25,P023,Smartbrush,Personal Care,20,19,Low,95.00%,4,-1
+Oct-25,P024,Relax Massager,Personal Care,45,41,Low,91.00%,8,-4
+Oct-25,P025,Care Grooming Kit,Personal Care,18,16,Low,89.00%,3,-2
+Nov-25,P001,Laptop Pro X,Electronics,550,594,Very High,92.00%,119,44
+Nov-25,P002,SmartPhone Elite,Electronics,400,380,High,95.00%,76,-20
+Nov-25,P003,Tab Ultra,Electronics,300,291,High,97.00%,58,-9
+Nov-25,P004,SmartWatch Active,Electronics,120,127,Low,94.00%,25,7
+Nov-25,P005,Vision Monitor,Electronics,180,185,Medium,97.00%,37,5
+Nov-25,P006,CoolMax Refrigerator,Home Appliance,700,756,Very High,92.00%,151,56
+Nov-25,P007,HeatWave Microwave,Home Appliance,90,98,Low,91.00%,20,8
+Nov-25,P008,PureAir Purifier,Home Appliance,130,143,Low,90.00%,29,13
+Nov-25,P009,WashPro Machine,Home Appliance,450,482,Very High,93.00%,96,32
+Nov-25,P010,CkeanSweep Vacuum,Home Appliance,110,108,Low,98.00%,22,-2
+Nov-25,P011,Ergo Office Chair,Furniture,85,88,Low,96.00%,18,3
+Nov-25,P012,Study Desk Plus,Furniture,120,118,Low,98.00%,24,-2
+Nov-25,P013,Oak Bookshelf,Furniture,70,67,Low,96.00%,13,-3
+Nov-25,P014,File Cabinet Pro,Furniture,95,97,Low,98.00%,19,2
+Nov-25,P015,Fkex Standing Desk,Furniture,180,162,Medium,90.00%,32,-18
+Nov-25,P016,Laser Printer X,Office Supplies,150,162,Medium,92.00%,32,12
+Nov-25,P017,Mechanical Keyboard,Office Supplies,40,37,Low,93.00%,7,-3
+Nov-25,P018,Precision Mouse,Office Supplies,15,15,Low,100.00%,3,0
+Nov-25,P019,HD Webcam,Office Supplies,35,35,Low,100.00%,7,0
+Nov-25,P020,Wireless Headset,Office Supplies,79,85,Low,92.00%,17,6
+Nov-25,P021,GroomPro,Personal Care,25,27,Low,92.00%,5,2
+Nov-25,P022,Airstyle Dryser,Personal Care,35,36,Low,97.00%,7,1
+Nov-25,P023,Smartbrush,Personal Care,20,20,Low,100.00%,4,0
+Nov-25,P024,Relax Massager,Personal Care,45,41,Low,91.00%,8,-4
+Nov-25,P025,Care Grooming Kit,Personal Care,18,19,Low,94.00%,4,1
+Dec-25,P001,Laptop Pro X,Electronics,550,506,Very High,92.00%,101,-44
+Dec-25,P002,SmartPhone Elite,Electronics,400,440,High,90.00%,88,40
+Dec-25,P003,Tab Ultra,Electronics,300,294,High,98.00%,59,-6
+Dec-25,P004,SmartWatch Active,Electronics,120,110,Low,92.00%,22,-10
+Dec-25,P005,Vision Monitor,Electronics,180,187,Medium,96.00%,37,7
+Dec-25,P006,CoolMax Refrigerator,Home Appliance,700,714,Very High,98.00%,143,14
+Dec-25,P007,HeatWave Microwave,Home Appliance,90,86,Low,96.00%,17,-4
+Dec-25,P008,PureAir Purifier,Home Appliance,130,124,Low,95.00%,25,-6
+Dec-25,P009,WashPro Machine,Home Appliance,450,450,Very High,100.00%,90,0
+Dec-25,P010,CkeanSweep Vacuum,Home Appliance,110,116,Low,95.00%,23,6
+Dec-25,P011,Ergo Office Chair,Furniture,85,85,Low,100.00%,17,0
+Dec-25,P012,Study Desk Plus,Furniture,120,125,Low,96.00%,25,5
+Dec-25,P013,Oak Bookshelf,Furniture,70,64,Low,91.00%,13,-6
+Dec-25,P014,File Cabinet Pro,Furniture,95,98,Low,97.00%,20,3
+Dec-25,P015,Fkex Standing Desk,Furniture,180,194,Medium,92.00%,39,14
+Dec-25,P016,Laser Printer X,Office Supplies,150,164,Medium,91.00%,33,14
+Dec-25,P017,Mechanical Keyboard,Office Supplies,40,39,Low,98.00%,8,-1
+Dec-25,P018,Precision Mouse,Office Supplies,15,15,Low,100.00%,3,0
+Dec-25,P019,HD Webcam,Office Supplies,35,35,Low,100.00%,7,0
+Dec-25,P020,Wireless Headset,Office Supplies,79,86,Low,91.00%,17,7
+Dec-25,P021,GroomPro,Personal Care,25,25,Low,100.00%,5,0
+Dec-25,P022,Airstyle Dryser,Personal Care,35,38,Low,91.00%,8,3
+Dec-25,P023,Smartbrush,Personal Care,20,22,Low,90.00%,4,2
+Dec-25,P024,Relax Massager,Personal Care,45,48,Low,93.00%,10,3
+Dec-25,P025,Care Grooming Kit,Personal Care,18,19,Low,94.00%,4,1
